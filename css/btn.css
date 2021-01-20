@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.btn {
+	list-style:none;
+	background-image: url(../images/button-01.gif);
+	background-repeat: no-repeat;
+	text-decoration: none;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #FFF;
+	font-size: 24px;
+	}
+a.download:link {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	color: #7AC843;
+	text-align: left;
+}
+a.download:hover {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	color: #66C;
+	text-decoration: underline;
+}
+a.download:active {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	color: #82D065;
+	text-decoration: none;
+}
+a.download:visited {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #82d265;
+}
+
+a.btn{
+	display: block;
+	height:50px;
+	line-height:50px;
+	width: 200px;
+	text-decoration: none;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #FFF;
+	background-image: url(../images/button-01.gif);
+	text-align:center;
+	}
+a.btn:link{
+	background: urlurl(../images/button-01.gif) no repeat;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	color: #FFF;
+	text-decoration: none;
+	background-image: url(../images/button-01.gif);
+	height: 50px;
+	width: 200px;
+	}
+
+a.btn:visited{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 20px;
+	background-image: url(../images/button-01.gif);
+	height: 50px;
+	width: 500px;
+	}
+a.btn:hover{
+	background-position: 0px -50px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	color: #FFF;
+	background-image: url(../images/button-01.gif)
+	background-repeat: no-repeat;	
+	width: 200px;
+	background-image: url(../images/button-01.gif);
+	height: 50px;
+	}
+a.btn:active{
+	color: #FFF;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	background-image: url(../images/button-01.gif);
+	background-repeat: repeat;
+	height: 50px;
+	width: 200px;
+	vertical-align: middle;
+	text-align: center;
+	}
+a.download {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 18px;
+	color: #7AC843;
+}

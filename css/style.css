@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	color:
+	background: center;
+	font: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: left;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #F4677D;
+	line-height: 42px;
+	font-size:36px
+	}
+h2{
+	font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 18px;
+	color: #9E9F99;
+	}
+h3{
+	font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:24px;
+	color: #F45F77;
+	
+	}
+p {
+	color:#313285;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	}
+#body1Links p a img {
+	border: 5px solid #FFF;
+}
+#body1Links p a img:hover {
+	border: 5px solid #F45F77;
+}
+#apDiv4 {
+	text-align: center;
+	height: 25px;
+	width: 100px;
+	padding-top: 10px;
+}
+.left {
+	clear: left;
+	float: left;
+	height: 560px;
+	width: 480px;
+	padding-right: 20px;
+	font-size: 18px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	display: inline;
+}
+
+li{
+	margin: 0;
+	padding:0
+	}
+.right {
+	clear: right;
+	float: right;
+	height: 560px;
+	width: 480px;
+	padding-right: 20px;
+	font-size: 18px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	display: inline;
+}
+#classescontinued {
+	height: 560px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 130px;
+	padding-left: 130px;
+}
+
+h5 {
+	size: 12px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	color: #313285;
+	font-style: italic;	
+	}
+
+.middle {
+	size: 24px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+	}
+
+.whitetext{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	size:16;
+	color:#FFF;
+	text-align: center;
+	}
+
+.green{
+	font-size: 14px;
+	color:#0F0;
+	}

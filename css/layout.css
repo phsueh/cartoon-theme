@@ -1,0 +1,600 @@
+#wrapper {
+	width: 100%;
+	background-repeat: repeat;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	height: 70px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #7F4914;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+#header {
+	height: 60px;
+	width: 100%;
+	padding-top: 10px;
+	padding-left:40px;
+	padding-right:0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	background-repeat: repeat-x;
+	position:fixed;
+	top:0;
+	z-index:100;
+	background-color: #FFF;	
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #7F4914;
+	min-width:1020px;
+	
+}
+body {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#headerRight  {
+	float: right;
+	height: 30px;
+	width: 425px;
+	vertical-align: middle;
+	clear: right;
+	padding-top: 30px;
+	padding-right: 80px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#header #headerLeft {
+	padding: 2px;
+	float: left;
+	height: 54px;
+	width: 244px;
+	clear: left;
+}
+#body1 {
+	background-repeat: no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	height: 540px;
+	width: 1280px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#body1 #frameHolder2 {
+	height: 540px;
+	width: 100%;
+	margin-top: 0px;
+}
+#body1 #frameHolder2 #body1Links {
+	float: left;
+	height: 450px;
+	width: 540px;
+	padding-top: 0px;
+	padding-bottom: 25px;
+	padding-left: 15px;
+	margin-left: 130px;
+	font-size: 16px;
+	line-height: 24px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-top: 0px;
+	color: #F45F77;
+}
+#bodymid {
+	height: 510px;
+	width: 430px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 130px;
+	padding-bottom: 20px;
+	padding-left: 720px;
+	background-image: url(../images/pandaframe.jpg);
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	background-repeat: no-repeat;
+	color: #303183;
+}
+#body2 {
+	height: 600px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	background-repeat: repeat;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#body2FrameInner #left {
+	clear: left;
+	float: left;
+	height: 400px;
+	width: 500px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+#frameHolder {
+	margin-right: auto;
+	margin-left: auto;
+}
+#frameHolder2 {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#body2FrameInner #right {
+	clear: right;
+	float: right;
+	height: 400px;
+	padding-top: 50px;
+	padding-right: 30px;
+	width: 450px;
+	text-align: right;
+}
+#body2FrameInner {
+	height: 500px;
+	width: 1020px;
+	background-color: #fffef9;
+	background-image: url(../images/pageflipbottom.gif);
+	background-position: left bottom;
+	background-repeat: no-repeat;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	border-top-width: 15px;
+	border-right-width: 15px;
+	border-left-width: 15px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #E8E5E5;
+	border-right-color: #E8E5E5;
+	border-left-color: #E8E5E5;
+	color: #303184;
+	font-size: 16px;
+	line-height: 24px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#body2FrameInnerCenter {
+	height: 400px;
+	width: 1005px;
+	padding: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#body2Frame {
+	height: 520px;
+	width: 100%;
+	padding-top: 40px;
+	background-image: url(../images/background.jpg);
+	padding-bottom: 40px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	background-repeat: repeat-x;
+}
+#body3 {
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 540px;
+	padding-right: 130px;
+	padding-left: 130px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#body3 #body3Frame {
+	height: 520px;
+	width: 410px;
+	padding-right: 140px;
+	padding-left: 720px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #362789;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-image: url(../images/history.jpg);
+	background-repeat: no-repeat;
+}
+#footer {
+	background-color: #e94963;
+	width: 100%;
+	height: 100px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-repeat: repeat;
+	padding-top: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 13px;
+	text-align: center;
+}
+#footerblock {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #FFF;
+	font-size: 10pt;
+	margin-bottom: 0px;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 3px;
+	padding-left: 0px;
+	height: 150px;
+	line-height: 24px;
+	vertical-align: middle;
+	background-color: #F45F77;
+}
+.sectionstyle1 {
+	height: 100%;
+	width: 1020px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 3px;
+	border-top-style: dotted;
+	border-top-color: #093;
+}
+#body3 #body3a {
+	height: 540px;
+	width: 1280px;
+}
+#bodymid2 {
+	height: 1000px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	background-repeat: repeat;
+}
+.standardlayout {
+	height: 540px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 130px;
+	padding-bottom: 20px;
+	padding-left: 130px;
+	background-image: url(../images/staffJenny-01.jpg);
+	background-repeat: no-repeat;
+}
+.standardlayout3 {
+	height: 540px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 130px;
+	padding-bottom: 20px;
+	padding-left: 130px;
+	background-image: url(../images/staffAnna-01.jpg);
+	background-repeat: no-repeat;
+}
+.standardlayout2 {
+	height: 540px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 130px;
+	padding-bottom: 20px;
+	padding-left: 130px;
+	background-image: url(../images/staffMay-01.jpg);
+	background-repeat: no-repeat;
+}
+.layoutleft {
+	float: left;
+	height: 100%;
+	width: 510px;
+	clear: left;
+	border-top-width: 4px;
+	border-top-style: none;
+	border-bottom-width: 4px;
+	border-bottom-style: dotted;
+	border-bottom-color: #F45F77;
+}
+.layoutmedium {
+	height: 400px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 130px;
+	padding-bottom: 20px;
+	padding-left: 130px;
+}
+.rightframe {
+	height: 540px;
+	width: 550px;
+	padding-left: 600px;
+	padding-right: 130px;
+	padding-top: 20px;
+}
+.layoutmedium2 {
+	height: 400px;
+	width: 1020px;
+	padding-top: 40px;
+	padding-right: 130px;
+	padding-bottom: 20px;
+	padding-left: 130px;
+	background-image: url(../images/staffLin-01.jpg);
+}
+#outerframe2  {
+	height: 100%;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.layoutmedium1 {
+	height: 450px;
+	width: 1020px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-image: url(../images/staffYu-01.jpg);
+	background-position: -130px;
+}
+#body2 #teachersbody2.1 {
+	background-image: url(../images/staffJenny-01.jpg);
+}
+#body1 #teachersbody1.1 {
+	height: 540px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 130px;
+	padding-bottom: 20px;
+	padding-left: 130px;
+}
+.layoutright {
+	float: right;
+	height: 100%;
+	width: 510px;
+	clear: right;
+	border-top-width: 4px;
+	border-bottom-width: 4px;
+	border-bottom-style: dotted;
+	border-bottom-color: #F45F77;
+}
+.layout2 {
+	height: 480px;
+	width: 470px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 40px;
+	padding-right: 680px;
+	padding-bottom: 40px;
+	padding-left: 130px;
+	background-image: url(../images/smile-01.jpg);
+}
+.classfees {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	color: #303184;
+	list-style-type: circle;
+	line-height: 32px;
+	list-style-position: outside;
+	margin: 0px;
+}
+#bodymid21 {
+	height: 250px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 130px;
+	padding-left: 130px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #613A1B;
+	border-right-color: #613A1B;
+	border-bottom-color: #613A1B;
+	border-left-color: #613A1B;
+}
+.bodyinner {
+	height: 100%;
+	width: 990px;
+	background-color: #FFFEF9;
+	padding: 15px;
+	background-image: url(../images/pageflipbottom.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	border-top-width: 15px;
+	border-right-width: 15px;
+	border-left-width: 15px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #E8E5E5;
+	border-right-color: #E8E5E5;
+	border-left-color: #E8E5E5;
+}
+#outerframe1  {
+	height: 1100px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/background.jpg);
+	background-repeat: repeat;
+	padding-top: 30px;
+}
+.lantern2 {
+	height: 540px;
+	width: 100%;
+	background-image: url(../images/clublantern-01.jpg);
+	background-repeat: repeat-x;
+}
+.lantern3 {
+	background-image: url(../images/lantern2.jpg);
+	background-repeat: no-repeat;
+	height: 480px;
+	width: 470px;
+	margin-bottom: -20px;
+	text-align: left;
+	padding-top: 40px;
+	padding-right: 130px;
+	padding-bottom: 40px;
+	padding-left: 680px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.lantern {
+	background-image: url(../images/lantern.jpg);
+	height: 540px;
+	width: 1280px;
+	margin: 0px;
+}
+.heading {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 36px;
+	color: #F45F77;
+	line-height: 42px;
+	text-align: left;
+}
+.body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #322F7D;
+	text-align: left;
+}
+.h2 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	line-height: 30px;
+	color: #666;
+	text-align: left;
+	font-size: 15px;
+	font-weight: normal;
+}
+.h3 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	color: #EA6376;
+	font-weight: bold;
+}
+.layout1 {
+	height: 540px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: #CCC;
+	text-align: left;
+	background-image: url(../images/smile-01.jpg);
+	background-size: 100%;
+	background-height: 540px;
+	background-repeat:no-repeat;
+	padding-top: 20px;
+	padding-right: 130px;
+	padding-bottom: 20px;
+	padding-left: 130px;
+}
+.layoutright1 {
+	height: 480px;
+	width: 470px;
+	padding-top: 40px;
+	padding-right: 130px;
+	padding-bottom: 40px;
+	padding-left: 680px;
+}
+.smiletwo {
+	background-image: url(../images/smile2-01.jpg);
+	height: 570px;
+	width: 1280px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.sectionstyle2 {
+	height: 100%;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.sectionstyle3 {
+	height: 540 px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 400px;
+	text-align: center;
+}
+
+.sectionstyle4 {
+	height: 540 px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	}
+.center {
+	text-align: center;
+	width: 1020px;
+	height: 100%;
+	vertical-align: middle;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -150px;
+	border-bottom-width: 4px;
+	border-bottom-style: dotted;
+	border-bottom-color: #44B6C4;
+}
+#outerframe3  {
+	height: 650px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/background.jpg);
+	background-repeat: repeat;
+}
+#bodymid23 {
+	height: 540px;
+	width: 1020px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 130px;
+	padding-left: 130px;
+	background-repeat: repeat;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.summer {
+	height:450px;
+	width:100%;
+	background:url(../camp.html);
+	background-image: url(../images/summer-01.jpg);
+	background-repeat: repeat-x;
+	padding: 0px;
+	margin:0px;
+	border:0;
+	clip: rect(0px,0px,0px,0px);
+	}
